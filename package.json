@@ -12,7 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
-    "html-template-tag": "^3.2.0",
     "pg": "^8.7.3",
     "sequelizer": "^1.1.4"
   }
